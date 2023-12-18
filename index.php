@@ -6,8 +6,8 @@
 </head>
 <body>
     <?php
-    $name = "John";
-    $address = "123 Main Street";
+    $name = "Roman Groblicki";
+    $address = "13 Leeds Place";
     // switch 'out' of PHP temporarily
     ?>
     <table style="border: 1px solid black">
